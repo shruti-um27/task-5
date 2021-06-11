@@ -1,0 +1,27 @@
+.carousel-item img {
+    /* width: ; */
+    height: 24rem;
+    /* object-fit: scale-down; */
+  
+  
+}
+.col{
+    background-color:grey;
+}
+.card-title{
+    color: navy;
+}
+.card-text{
+    color: grey;
+}
+.row{
+    background-color: rgb(155, 146, 146);
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
